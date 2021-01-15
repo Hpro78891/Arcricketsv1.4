@@ -1,1 +1,2 @@
-# Arcricketsv1.4
+# js-cart-setup
+ADD ITEMS TO CART JAVASCRIPT PROJECT
